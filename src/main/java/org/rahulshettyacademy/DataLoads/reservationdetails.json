@@ -1,0 +1,15 @@
+[
+  {
+    "origin":"MAA",
+    "destination":"GOI",
+    "destination2":"DEL"
+  },
+    
+  {
+    "origin":"DEL",
+    "destination":"HYD",
+    "destination2":"MAA"
+  }
+  
+  
+  ]
